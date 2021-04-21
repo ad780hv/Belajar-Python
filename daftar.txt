@@ -1,0 +1,3 @@
+Nama: dd
+Umur: 1
+Alamat: ff
